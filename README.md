@@ -1,6 +1,9 @@
 
 # `licensing`
 
+Digital signature algorithm for software licensing.
+
+See https://botan.randombit.net/handbook/api_ref/pubkey.html#signatures.
 
 ## 3rd party copyright notice
 
